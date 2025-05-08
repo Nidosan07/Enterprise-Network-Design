@@ -1,6 +1,7 @@
 # Enterprise-Network-Design
-Enterprise Network Design for supermarket chains   
 
+
+<h2>Credentials</h2>
 
 NETWORK DEVICE USERNAME: cisco  &  PASSWORD: cisco
 
